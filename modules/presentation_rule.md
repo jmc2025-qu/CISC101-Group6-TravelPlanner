@@ -3,7 +3,7 @@
 The user only sees:
 
 - **Trip summary**
-- **Daily plan**
+- **Daily plan** 
 - **Practical notes**
 - **Quick checks**
 - **Next tweaks**
