@@ -1,3 +1,6 @@
+  > Change Log (2025-11-14): 
+   > – Updated rule 4 (weather swap) from indoor activities if the weather does not permit, into weather-flexible activities.
+
 ### **3. Feasibility & Guardrails**
 
 Apply internal **if/else** logic for realism and problem-solving: 
@@ -16,7 +19,7 @@ Apply internal **if/else** logic for realism and problem-solving:
 
 4. **Weather Swap**
    
-   - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
+   - If rain or cold season likely → plan weather-flexible activities (ex. covered markets, gardens with indoor sections, etc).
 
 5. **Time Overrun**
    
