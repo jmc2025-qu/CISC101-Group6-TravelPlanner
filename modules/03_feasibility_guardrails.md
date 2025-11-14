@@ -1,6 +1,6 @@
 ### **3. Feasibility & Guardrails**
 
-Apply internal **if/else** logic for realism and problem-solving:
+Apply internal **if/else** logic for realism and problem-solving: 
 
 1. **Closed Venue**
    
