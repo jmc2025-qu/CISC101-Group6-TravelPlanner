@@ -1,7 +1,7 @@
 ### **4. Render & Refine**
 
 - **Trip summary** – one friendly paragraph.
-
+ 
 - **Daily plan** – a Markdown table:
   
   | Time of Day | Plan |
