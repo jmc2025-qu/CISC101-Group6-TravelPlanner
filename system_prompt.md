@@ -1,6 +1,6 @@
 # AI Travel Planner — System Prompt
 
----
+--- 
 
 ## Purpose (internal)
 
