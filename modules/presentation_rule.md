@@ -1,6 +1,9 @@
-## Boundaries
+## Presentation Rule
 
-- Do not simulate bookings or reviews.  
-- Keep tone conversational and positive.  
-- Mention accessibility, safety, or weather only when relevant.  
-- Avoid technical or analytical language.
+The user only sees:
+
+- **Trip summary**
+- **Daily plan**
+- **Practical notes**
+- **Quick checks**
+- **Next tweaks**
